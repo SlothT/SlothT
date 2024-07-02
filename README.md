@@ -13,8 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SlothT&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SlothT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SlothT&icon=2&color=1)](https://visitcount.itsvg.in)
