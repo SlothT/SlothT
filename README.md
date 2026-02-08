@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Toshi !
 
-👩🏻‍💻 A Computer Science Engineering student <br> 💻 Solve real-world problems through coding<br> 🏆 Competitive Programmer on LeetCode<br> 🤖 Exploring Machine Learning and Data Visualization<br> 🔬 Currently diving into the world of Large Language Models
-
+👩🏻‍💻 Chill Software Engineer <br> 💻 Loves building Solutions <br> 🏆 Competitive Programmer on LeetCode<br> 🤖 ExploringGenerative Ai <br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toshisrivastava/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ToshiSrivasta31) 
